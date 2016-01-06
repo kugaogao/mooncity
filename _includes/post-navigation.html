@@ -1,0 +1,12 @@
+<div class="post-navigation">
+{% if page.previous %}
+  <a  href="{{ site.baseurl }}{{ page.previous.url }}" class="previous">前</a>
+{% else %}
+  <span class="previous">前</span>
+{% endif %}
+{% if page.next %}
+ <a  href="{{ site.baseurl }}{{ page.next.url }}" class="next">后</a>
+{% else %}
+  <span class="next">后</span>
+{% endif %}
+</div><!--post-navigation-->

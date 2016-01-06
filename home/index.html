@@ -1,0 +1,37 @@
+---
+layout: default
+title: "旧主页"
+---
+<div class="home">
+  <div class="left-bar"></div><!--left-bar-->
+  <h1 class="page-heading">最近十篇</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts limit:10 %}
+      <li>
+        <a class="node" href="{{ post.url }}"><span class="inner"></span>
+        </a><!--node-->
+        <span class="corner"></span>
+        <div class="main">
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2><!--文章标题-->
+          {{ post.excerpt | append: "" | prepend: "  "}}<!--摘要-->
+          <a class="read-more" href="{{ post.url }}">阅读更多</a>
+        </div><!--main-->
+        <div class="footer">
+          <span class="post-meta">{{ post.date | date: "%b %-d %Y" }}</span><!--文章信息-->
+          {% if post.categories %}
+            <span class="categories">
+              {% for ca in post.categories %}
+                <span>{{ ca | upcase }}</span>
+              {% endfor %}
+            </span>
+          {% endif %}
+        </div><!--footer-->
+      </li>
+    {% endfor %}
+  </ul>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

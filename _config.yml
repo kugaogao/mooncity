@@ -1,0 +1,52 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: "月城"
+email: ukugaogao@gmail.com
+description: > #我的第一个轻博客
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.kugaogao.com" # the base hostname & protocol for your site
+twitter_username: kugaogao
+github_username:  kugaogao
+github: https://github.com/kugaogao
+hello: "人的痛苦都源于想的太多而读书太少"
+# Build settings
+markdown: kramdown
+highlighter: pygments
+excerpt_separator: "<!--more-->" #定义摘要的分隔符
+defaults: 
+  - #为posts集合中的文件设置默认属性
+    scope:
+      path: "" 
+      type: "posts"
+    values:
+      layout: "my_post"
+      excerpt_separator: "<!--more-->" #定义摘要的分隔符
+  - #为albums集合中的文件设置默认属性
+    scope:
+      path: "" #注意之前应该留有空格
+      type: albums
+    values:
+      layout: "album" #使用相册模板
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: "my_page"
+#自定义集合
+collections:
+ albums:
+   output: true #允许将albums渲染为独立文件
+   #permalink: /selfdefine/:path/  #自定义路径 selfdefine相当于albums文件夹
+#开启分页功能
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "archives/page/:num"
+#七牛云存储外链
+qiniupic: http://7xpt1l.com1.z0.glb.clouddn.com/thumbnail
