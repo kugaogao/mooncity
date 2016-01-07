@@ -1,7 +1,7 @@
 ---
 title: "Jekyll官方文档学习之分页功能"
-actegories: "jekyll document"
-tags: "jekyll"
+actegories: "jekyll 官方文档"
+tags: "jekyll 分页"
 thumbnail: 13.jpg
 ---
 下载、设置、读取、测试<!--more-->

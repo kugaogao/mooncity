@@ -1,7 +1,7 @@
 ---
 title: "Jekyll进阶之多说评论系统"
 categories: "jekyll"
-tags: "jekyll duoshuo"
+tags: "jekyll 多说"
 thumbnail: "7.jpg"
 ---
 利用多说评论系统实现静态博客的评论功能。

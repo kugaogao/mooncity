@@ -1,7 +1,7 @@
 ---
 title: "Jekyll 官方文档学习——资源(assets)"
-categories: "jekyll document"
-tags: "jekyll assets"
+categories: "jekyll 官方文档"
+tags: "jekyll资源"
 thumbnail: 11.jpg
 ---
 Jekyll 提供了对 Sass 和 CoffeeScript 的内建支持。使用时只需创建以 .sass、.scss 或 .coffee 为扩展名的文件，并以两行 --- 开头即可，例如：<!--more-->

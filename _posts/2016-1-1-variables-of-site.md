@@ -1,7 +1,7 @@
 ---
 title: "Jekyll官方文档学习之常用变量——全站(site)变量"
 categories: "jekyll"
-tags: "jekyll document"
+tags: "jekyll 官方文档"
 thumbnail: 13.jpg
 ---
 Jekyll 会遍历你的网站搜寻要处理的文件。任何有 YAML 头信息的文件都是要处理的对象。对于每一个这样的文件，Jekyll 都会通过 Liquid 模板工具来生成一系列的数据。下面就是这些可用数据变量的参考和文档。

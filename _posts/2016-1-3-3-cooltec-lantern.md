@@ -1,7 +1,7 @@
 ---
 title: "酷科技之Lantern(帆樯神器)"
-categories: "cooltec"
-tags: "cooltec lantern"
+categories: "酷科技"
+tags: "酷科技 lantern 帆樯"
 thumbnail: 8.jpg
 ---
 google资助的帆樯项目Lantern。

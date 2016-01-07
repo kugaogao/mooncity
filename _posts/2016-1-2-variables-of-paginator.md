@@ -1,7 +1,7 @@
 ---
 title: "Jekyll官方文档学习之常用变量-分页器(Paginator)"
 categories: "jekyll"
-tags: "jekyll variables"
+tags: "jekyll 分页器"
 date: 2016-1-2 11:11:11:00
 thumbnail: 10.jpg
 ---

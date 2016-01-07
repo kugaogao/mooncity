@@ -1,7 +1,7 @@
 ---
 title: "为博客添加音乐资源"
-categories: "music"
-tags: "music"
+categories: "博客进阶"
+tags: "音乐"
 thumbnail: 10.jpg
 ---
 在线音乐播放
@@ -44,4 +44,6 @@ md文件不支持，html文件支持，因此在静态文件中可以使用此�
 
 效果如下
 <embed src="http://music.163.com/style/swf/widget.swf?sid=4956882&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+	请下载Flash插件。
+</embed>
 

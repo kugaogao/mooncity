@@ -1,7 +1,7 @@
 ---
 title: "酷科技之VyprVPN(帆樯神器)"
-categories: "cooltec"
-tags: "cooltec vyprvpn"
+categories: "酷科技"
+tags: "酷科技 vyprvpn 帆樯"
 thumbnail: 9.jpg
 ---
 美国公司开发的一款好用的VPN（虚拟专用网络）,有免费版和商业版。免费版有每月500M免费流量，使用方式为首先在官网注册账号，然后下载软件至电脑或手机，登录即可使用。<!--more-->

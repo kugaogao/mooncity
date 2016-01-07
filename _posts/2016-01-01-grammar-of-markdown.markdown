@@ -1,6 +1,6 @@
 ---
 title: "Markdown 语法练习"
-tags: "Markdown learn"
+tags: "Markdown 语法"
 thumbnail: 3.jpg
 ---
 相关语法练习。

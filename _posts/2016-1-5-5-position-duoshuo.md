@@ -1,7 +1,7 @@
 ---
 title: "更改多说评论模块的位置"
-categories: "duoshuo"
-tags: "duoshuo design"
+categories: "博客进阶"
+tags: "多说 设计"
 thumbnail: "10.jpg"
 ---
 

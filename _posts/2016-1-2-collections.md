@@ -1,7 +1,7 @@
 ---
 title: "Jekyll官方文档学习之集合"
-categories: "jekyll document"
-tags: "jekyll collections"
+categories: "jekyll 官方文档"
+tags: "jekyll 集合"
 thumbnail: 10.jpg
 ---
 并非所有的都会是文章或页面。也许您想要记录您开源项目中涉及的各种解决方案，团队成员，或是某次会议记录。集合（Collection）允许您定义一种新的文档类型，它既可以像页面和文章那样工作，也可以拥有它们特有的属性和命名空间。<!--more-->

@@ -1,7 +1,7 @@
 ---
 title: "Jekyll官方文档学习之数据文件"
-categories: "jekyll document"
-tags: "jekyll files"
+categories: "jekyll 官方文档"
+tags: "jekyll 数据文件"
 author: "ukugaogao"
 thumbnail: 10.jpg
 ---

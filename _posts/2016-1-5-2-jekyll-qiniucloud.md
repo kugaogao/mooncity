@@ -1,7 +1,7 @@
 ---
 title: "jekyll进阶之使用七牛云外链"
 categories: "jekyll"
-tags: "jekyll qiniu"
+tags: "jekyll 七牛云"
 thumbnail: 8.jpg
 ---
 博客使用较多的图片给存储和上传带来不便，使用七牛云外链可以有效避免这个问题。

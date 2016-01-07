@@ -1,7 +1,7 @@
 ---
 title: "Jekyll官方文档学习之博客迁移"
-actegories: "jekyll document"
-tags: "jekyll"
+actegories: "jekyll 官方文档"
+tags: "jekyll 博客迁移"
 thumbnail: 7.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Jekyll 中的语法高亮 Pygments"
 categories: "jekyll pygments"
-tags: "jekyll pygments"
+tags: "jekyll pygments 语法高亮"
 thumbnail: 9.jpg
 ---
 如何使用、问题、实例

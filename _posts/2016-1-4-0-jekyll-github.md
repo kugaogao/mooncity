@@ -1,7 +1,7 @@
 ---
 title: "Jekyll进阶之在Github上搭建个人博客"
 categories: "jekyll"
-tags: "jekyll advanced"
+tags: "jekyll github"
 thumbnail: "8.jpg"
 ---
 使用 Jekyll 在 Github 上搭建个人博客

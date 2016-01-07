@@ -1,7 +1,7 @@
 ---
 title: "为Github上的静态博客绑定域名"
 vategories: "github"
-tags: "github blog domain"
+tags: "github 博客 域名"
 thumbnail: 6.jpg
 ---
 为github上的静态页面绑定自己的域名。

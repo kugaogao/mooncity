@@ -1,7 +1,7 @@
 ---
 title: "酷科技之IRC(互联网中继聊天)"
-categories: "cooltec"
-tags: "cooltec irc"
+categories: "酷科技"
+tags: "酷科技 IRC"
 thumbnail: 14.jpg
 ---
 IRC是Internet Relay Chat 的英文缩写，中文一般称为互联网中继聊天。它是由芬兰人Jarkko Oikarinen于1988年首创的一种网络聊天协议。<!--more-->

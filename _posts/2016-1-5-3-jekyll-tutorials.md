@@ -1,7 +1,7 @@
 ---
 title: "一些想法"
-categories: "thoughts"
-tags: "thoughts jekyll"
+categories: "想法"
+tags: "想法 jekyll"
 thumbnail: 10.jpg
 ---
 关于本地Jekyll静态博客如何使用的一些想法。

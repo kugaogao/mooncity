@@ -1,7 +1,7 @@
 ---
 title: "Jekyll官方文档学习之常用变量——页面(page)变量"
-categories: "jekyll document"
-tags: "jekyll document variables"
+categories: "jekyll 官方文档"
+tags: "jekyll 官方文档 变量"
 actor: "RIO"
 thumbnail: 1.jpg
 ---

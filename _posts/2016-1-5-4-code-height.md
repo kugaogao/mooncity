@@ -1,7 +1,7 @@
 ---
 title: "修改Payments的渣渣代码高亮"
-categories: "codestyle"
-tags: "codestyle"
+categories: "代码样式"
+tags: "代码样式"
 thumbnail: 8.jpg
 ---
 一直感觉Jekyll的代码高亮很不好，今天终于将其更改。

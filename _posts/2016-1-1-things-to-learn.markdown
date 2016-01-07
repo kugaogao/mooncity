@@ -1,7 +1,7 @@
 ---
 title: "需要学习的东西"
 categories: "plans"
-tags: "plans"
+tags: "计划"
 thumbnail: 5.jpg
 ---
 包括markdown标记语言、Liquid模板语言、scss语法等。<!--more-->
