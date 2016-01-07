@@ -5,6 +5,7 @@ tags: "music"
 thumbnail: 10.jpg
 ---
 在线音乐播放
+<!--more-->
 
 ###使用html5标签和七牛云外链
 cast away
