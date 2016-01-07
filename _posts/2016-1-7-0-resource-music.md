@@ -26,7 +26,22 @@ Journey
 </audio>
 
 ###使用网易云音乐
-md认为这是一串字符而不是html标签，建立静态页面html文件就没有这个问题。
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=34834180&auto=1&height=66">
-您的浏览器不支持iframe元素。
-</iframe>
+**使用iframe标签**。
+md文件不支持，html文件支持，因此在静态文件中可以使用此种方法。查看效果，请转至”音乐“页面。
+
+代码
+
+	<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=34834180&auto=1&height=66">
+	您的浏览器不支持iframe元素。
+	</iframe>
+
+**flash插件**
+完美支持
+
+代码
+
+	<embed src="http://music.163.com/style/swf/widget.swf?sid=4956882&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+
+效果如下
+<embed src="http://music.163.com/style/swf/widget.swf?sid=4956882&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+
