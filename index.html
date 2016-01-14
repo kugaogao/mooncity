@@ -34,25 +34,16 @@ layout: default
   </ul>
   <!-- 分页链接 -->
   <div class="pagination">
-      <a href="{{ site.baseurl }}" class="first">首</a>
-      {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-          <a href="{{ site.baseurl }}" class="previous">1</a>
-        {% else  %}
-          <a href="{{ site.baseurl }}/archives/page/{{ paginator.previous_page }}" class="previous">{{ paginator.previous_page }}</a>
+      <a href="/" class="first">首</a>
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <a href="{{ site.baseurl }}/archives/page/{{ page }}" class="current">{{ page }}</a></li>
+        {% elsif page == 1 %}
+          <a href="/">{{ page }}</a>
+        {% else %}
+          <a href="{{ site.baseurl }}/archives/page/{{ page }}">{{ page }}</a>
         {% endif %}
-      {% endif %}
-      <!--previous-->
-      {% if paginator.page == 1 %}
-        <a href="{{ site.baseurl }}" class="current">1</a>
-      {% else  %}
-        <a href="{{ site.baseurl }}/archives/page/{{ paginator.page }}" class="current">{{ paginator.page }}</a>
-      {% endif %}<!--next-->
-      {% if paginator.next_page == paginator.total_pages %}
-        <a href="{{ site.baseurl }}/archives/page/{{ paginator.next_page }}" class="next">{{ paginator.total_pages }}</a>
-      {% elsif paginator.next_page < paginator.total_pages %}
-        <a href="{{ site.baseurl }}/archives/page/{{ paginator.next_page }}" class="next">{{ paginator.next_page }}</a>
-      {% endif %}
+      {% endfor %}
       <!--next-->
       <a href="{{ site.baseurl }}/archives/page/{{ paginator.total_pages }}" class="last">尾</a>
   </div><!--pagination-->

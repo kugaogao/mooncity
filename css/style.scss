@@ -406,15 +406,25 @@ $mobile-block-border: 1px solid #ccc;
 					}
 				}
 				.pagination{
-					background-color: gray;
+					background-color: #454545;
 					text-align:center;
 					a,span{
 						width:30px;
 						height:100%;
 						display:inline-block;
+						background-color: #454545;
 						margin:0 0;
 						border-radius: 0px;
 						padding: 5px;
+					}
+					.current{
+						background-color: #343434;
+					}
+					a:hover{
+						background-color: #343434;
+					}
+					.last{
+						float:right;
 					}
 				}
 			}
