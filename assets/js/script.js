@@ -3,8 +3,7 @@ $(function(){
 		if ($(this).find(".kids")){
 			$(this).find(".kids").slideToggle();
 		}
-		//console.log("hello");
+		console.log("hello");
 	}
-	$(".site-footer .categories li").click(d);
-	$(".site-footer .tags li").click(d);
+	$(".site-footer .nav li").click(d);
 })
