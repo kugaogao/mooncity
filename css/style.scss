@@ -320,6 +320,13 @@ h1,h2,h3,h4,h5,h6{
 				-moz-transition:100ms;
 				-ms-transition:100ms;
 			}
+			.kids{
+				padding-left: 20px;
+				display: none;
+				li{
+					border-bottom: 0px;
+				}
+			}
 		}
 		li:hover{
 			color:$font-color;
