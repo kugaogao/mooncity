@@ -8,7 +8,7 @@ qiniuurl: http://7xpt1l.com1.z0.glb.clouddn.com/image%2Fnature%2Fphoto-145010121
 基本步骤。
 <!--more-->
 
-###第一次提交
+### 第一次提交
 
 #### 1. 项目初始化
 到Jekyll 项目下，运行命令：
@@ -43,7 +43,7 @@ qiniuurl: http://7xpt1l.com1.z0.glb.clouddn.com/image%2Fnature%2Fphoto-145010121
 
 	git push origin gh-pages
 
-###问题及解决方法
+### 问题及解决方法
 
 #### 1. 删除文件造成的问题
 如果本地项目中删除了一些文件，提交会出现问题，此时应强行替代远程文件。

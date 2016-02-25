@@ -9,7 +9,7 @@ qiniuurl: http://7xpt1l.com1.z0.glb.clouddn.com/6619408544398951633.jpg
 <!--more-->
 Google: **如何阅读专业文献**
 
-###情报
+### 情报
 
 1. [如何阅读专业外文文献?](http://blog.renren.com/share/236348526/1082895994)
 
