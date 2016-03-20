@@ -1,6 +1,10 @@
 /*-----------------------
 		style sheet
 -----------------------*/
+
+
+/*------- basic style -----*/
+
 * {
   padding: 0px;
   margin: 0px; 
@@ -31,6 +35,35 @@ a:hover {
 	width:90%;
 	margin:20px auto;
 }
+
+
+/*---------- navigation -------*/
+
+.navigation ul{
+
+}
+.navigation ul li{
+	display: inline-block;
+	padding: 5px 10px;
+}
+
+
+/*----- mind manager ------*/
+
+.level1Indent { margin-left:  0em } 
+.level2Indent { margin-left:  2em } 
+.level3Indent { margin-left:  2em } 
+.level4Indent { margin-left:  2em } 
+.level5Indent { margin-left:  2em } 
+.levelXIndent { margin-left:  12em } 
+.level1Style { font-size: 13pt; font-weight: bold; margin-bottom: 0.5em; margin-left:  2em } 
+.level2Style { font-size:  11pt; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em } 
+.level3Style { font-size:  10pt; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em } 
+.level4Style { font-size:  10pt; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em } 
+.level5Style { font-size:  10pt; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em } 
+.levelXStyle { font-size:  10pt; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em } 
+.notesStyle { font-size:  10pt; margin-bottom: 1em } 
+
 .level2Style:before{
 	content:"类型";
 	background-color: #f9ef64;
@@ -53,23 +86,26 @@ a:hover {
 	margin-right: 10px;
 }
 .level4Style{
-  background-color:#e67eab;
+	background-image: -webkit-gradient( linear, left top, right top, color-stop(0, rgba(218,77,119,.2)), color-stop(0.3, rgba(217,20,79,.8)), color-stop(1, rgba(218,121,150,.2)) );
+  	
 }
 
 .level4Style:hover{
   cursor:pointer;
-  background-color: #e32980;
+  background-color:#e67eab;
+  
 }
 
-/*--------辅助导航样式--------*/
+
+/*-------- right nav --------*/
 
 .right-nav{
 	position:fixed;
-	right: 5%;
+	right: 10%;
 	bottom: 20%;
 	height: 300px;
 	overflow: auto;
-	background-color: #fff;
+	background-color:          #fff;
 	padding: 20px;
 	opacity: 0.9;
 }
@@ -93,12 +129,13 @@ a:hover {
 .right-nav .wrapper a:before{
 	position: absolute;
 	content: "";
-	left: -4px;
+	left: -6px;
 	bottom: 10px;
 	width: 10px;
 	height: 10px;
 	border-radius: 10px;
 	background-color: #444;
+	border:solid 2px #fff;
 }
 .right-nav .wrapper a:hover:before{
 	background-color: #e32980;
@@ -108,7 +145,7 @@ a:hover {
 	width: 18px;
 	height: 18px;
 	border-radius: 18px;
-	left: -8px;
+	left: -10px;
 	bottom: 6px;
 }
 .right-nav .wrapper .three:before{
@@ -116,6 +153,37 @@ a:hover {
 	width: 14px;
 	height: 14px;
 	border-radius: 14px;
-	left: -6px;
+	left: -8px;
 	bottom: 8px;
+}
+
+
+/*----- back to top or bottom ----*/
+
+.btn{
+	position:fixed;
+	right: 5%;
+	width: 40px;
+	height: 40px;
+	background-color: #666;
+	color: #fff;
+	border-radius: 3px;
+	text-align: center;
+	vertical-align: middle;
+}
+.btn:hover{
+	cursor:pointer;
+	background-color: #444;
+}
+.btn:before{
+	margin-top: 5px;
+}
+#back-to-top{
+	bottom: 130px;
+}
+#btn{
+	bottom: 80px;
+}
+#back-to-bottom{
+	bottom: 30px;
 }
