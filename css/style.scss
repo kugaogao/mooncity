@@ -48,6 +48,10 @@ h1,h2,h3,h4,h5,h6{
 	margin: 0 0 0 0;
 	margin-bottom:10px;
 }
+td,th{
+	border:solid 1px #ccc;
+	padding: 3px 4px;
+}
 /*--------site-header----*/
 .site-header{
 	background-color:#fff;
