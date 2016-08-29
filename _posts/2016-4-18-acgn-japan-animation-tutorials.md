@@ -1,6 +1,6 @@
 ---
 title:
-- "日本动漫情报总辑"
+- "霓虹国动漫情报总辑"
 categories:
 - music
 tags:

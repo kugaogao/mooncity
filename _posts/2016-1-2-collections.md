@@ -8,22 +8,22 @@ thumbnail: 10.jpg
 
 一 首先让jekyll读取你的集合，在_config.yml中将相关信息设置好。
 例如:
-{% highlight ruby linenos %}
+## {% highlight ruby linenos %}
     collections:
     - albums
     beauty:
       foo: bar 
-{% endhighlight %}
+## {% endhighlight %}
 设置了两个集合albums与beauty。
 然后为集合设置默认的属性，例如：
-{% highlight ruby linenos %}
+## {% highlight ruby linenos %}
    defaults:
    - scope:
        path:""
        type: albums
      values:
        layout: "ablum" #使用相册模板 
-{% endhighlight %}
+## {% endhighlight %}
 为集合中的文件指定默认的模板。
 
 二 加入内容

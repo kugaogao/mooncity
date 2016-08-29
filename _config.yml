@@ -17,7 +17,7 @@ github: https://github.com/kugaogao
 hello: "人的痛苦都源于想的太多而读书太少"
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: pigments
 excerpt_separator: "<!--more-->" #定义摘要的分隔符
 defaults: 
   - #为posts集合中的文件设置默认属性
