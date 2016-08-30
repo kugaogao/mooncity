@@ -6,8 +6,10 @@ categories:
 tags:
 - acgn
 - japan
-cover:
-- http://7xpt1l.com1.z0.glb.clouddn.com/6630834669236470206.jpg
+thumbnail:
+- 7.jpg
+qiniuurl:
+- http://7xpt1l.com1.z0.glb.clouddn.com/jekyll2016.8.30.6631618621025714644.jpg
 ---
 搜集的日本动漫。注：所有数据均搜集自网络。
 <!--more-->

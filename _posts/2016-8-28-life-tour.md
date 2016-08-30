@@ -10,7 +10,7 @@ tags:
 thumbnail:
 - 7.jpg
 qiniuurl:
-- http://7xpt1l.com1.z0.glb.clouddn.com/6630807181445771777.jpg
+- http://7xpt1l.com1.z0.glb.clouddn.com/jekyll2016.8.30.6631562545932700003.jpg
 ---
 游玩之后，不甘心所闻所见于记忆之中渐渐淡薄，总想下笔写点什么。
 <!--more-->

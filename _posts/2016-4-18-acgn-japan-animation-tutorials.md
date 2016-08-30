@@ -7,8 +7,10 @@ tags:
 - acgn
 - 日本
 - 总辑
-cover:
-- http://7xpt1l.com1.z0.glb.clouddn.com/6630834669236470206.jpg
+thumbnail:
+- 7.jpg
+qiniuurl:
+- http://7xpt1l.com1.z0.glb.clouddn.com/jekyll2016.8.30.6631685691235039320.jpg
 ---
 日本动漫的相关情报。
 <!--more-->

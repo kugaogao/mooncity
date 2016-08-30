@@ -10,7 +10,7 @@ tags:
 thumbnail:
 - 5.jpg
 qiniuurl:
-- http://7xpt1l.com1.z0.glb.clouddn.com/6630807181445771777.jpg
+- http://7xpt1l.com1.z0.glb.clouddn.com/jekyll2016.8.30.6631570242514094432.jpg
 ---
 名字是牛棚，杂忆更能说明实际情况。前半部分是文革期间被批斗摧残的经历。后半部分是回忆录和对一些问题的思考。
 <!--more-->

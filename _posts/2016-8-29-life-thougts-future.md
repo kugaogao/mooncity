@@ -11,7 +11,7 @@ tags:
 thumbnail:
 - 5.jpg
 qiniuurl:
-- http://7xpt1l.com1.z0.glb.clouddn.com/6630807181445771777.jpg
+- http://7xpt1l.com1.z0.glb.clouddn.com/jekyll2016.8.30.6631535058142011038.jpg
 ---
 昨日和老爹就我的未来的发展谈了一些问题，发现读博对我来说是一条不错的道路，尤其是直博。
 <!--more-->

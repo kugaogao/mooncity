@@ -10,7 +10,7 @@ tags:
 thumbnail:
 - 7.jpg
 qiniuurl:
-- http://7xpt1l.com1.z0.glb.clouddn.com/6630807181445771777.jpg
+- http://7xpt1l.com1.z0.glb.clouddn.com/jekyll2016.8.30.6631664800514093332.jpg
 ---
 上了一会草榴，感觉平静的内心又吹起了不小的浪花。听别人说他们的故事，看别人的经历，总感觉这个世界竟有些陌生了。
 <!--more-->

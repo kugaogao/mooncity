@@ -10,7 +10,7 @@ tags:
 thumbnail:
 - 5.jpg
 qiniuurl:
-- http://7xpt1l.com1.z0.glb.clouddn.com/6630807181445771777.jpg
+- http://7xpt1l.com1.z0.glb.clouddn.com/jekyll2016.8.30.6631701084397799053.jpg
 ---
 
 感觉季羡林不如张中行温和，或许是经历的关系，张中行在文革中虽造批斗入干校但总算没有遭受肉体之苦，季老可能更加悲惨一点。
