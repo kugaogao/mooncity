@@ -1,13 +1,15 @@
 ---
 title: "一些想法"
-categories: "想法"
-tags: "想法 jekyll"
+categories: 
+- thoughts
+tags: 
+- jekyll
 thumbnail: 10.jpg
 ---
 关于本地Jekyll静态博客如何使用的一些想法。
 <!--more-->
 
-###目前我主要用于
+### 目前我主要用于
 
 **记录一些技术问题**
 在使用各种软件过程中遇到的一些问题。

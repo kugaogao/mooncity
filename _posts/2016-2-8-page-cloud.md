@@ -1,7 +1,9 @@
 ---
 title: "page cloud 网页设计从此改变"
-categories: "cooltec"
-tags: "cooltec page-cloud"
+categories: 
+- technique
+tags: 
+- "page-cloud"
 thumbnail: 8.jpg
 qiniuurl: http://7xpt1l.com1.z0.glb.clouddn.com/image%2Fnature%2Fphoto-1450849608880-6f787542c88a.jpg
 ---

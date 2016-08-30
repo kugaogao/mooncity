@@ -1,7 +1,9 @@
 ---
 title: "酷站推荐：Tumblr"
-categories: "coolsite"
-tags: "coolsite tumblr"
+categories: 
+- resource
+tags: 
+- "tumblr"
 thumbnail: 3.jpg
 qiniuurl: http://7xpt1l.com1.z0.glb.clouddn.com/24048623556_1d2af3fb41_b.jpg
 ---

@@ -2,7 +2,7 @@
 title:
 - "霓虹国动漫情报总辑"
 categories:
-- music
+- resource
 tags:
 - acgn
 - 日本

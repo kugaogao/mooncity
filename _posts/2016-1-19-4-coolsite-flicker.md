@@ -1,7 +1,10 @@
 ---
 title: "酷站推荐：Flicker"
-categories: "coolsite"
-tags: "coolsite flicker"
+categories: 
+- resource
+tags: 
+- "coolsite"
+- "flicker"
 thumbnail: 8.jpg
 qiniuurl: http://7xpt1l.com1.z0.glb.clouddn.com/24116381221_7a08bfb664_o.jpg
 ---

@@ -1,16 +1,17 @@
 ---
 title: "Jekyll进阶之多说评论系统"
 categories: "jekyll"
-tags: "jekyll 多说"
+tags: 
+- 多说
 thumbnail: "7.jpg"
 ---
 利用多说评论系统实现静态博客的评论功能。
 <!--more-->
 
-###资源
+### 资源
 [官方网站](http://duoshuo.com/)
 
-###使用方法
+### 使用方法
 
 1. **获取代码**
 注册多说账号，从官方获取多说评论框代码。

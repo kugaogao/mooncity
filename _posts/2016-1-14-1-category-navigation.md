@@ -1,7 +1,9 @@
 ---
 title: "为jekyll博客添加目录导航"
-categories: "jekyll"
-tags: "jekyll navigation"
+categories: 
+- technique
+tags: 
+- "jekyll"
 thumbnail: 10.jpg
 qiniuurl: http://7xpt1l.com1.z0.glb.clouddn.com/image%2Fnature%2Fphoto-1436407886995-41f8f5ee43ad.jpg
 ---

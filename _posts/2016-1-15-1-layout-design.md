@@ -1,7 +1,10 @@
 ---
 title: "页面布局总结"
-categories: "layout"
-tags: "layout design"
+categories: 
+- technique
+tags: 
+- "layout"
+- "design"
 thumbnail: 7.jpg
 qiniuurl: http://7xpt1l.com1.z0.glb.clouddn.com/image%2Fnature%2Fphoto-1429979787503-f2d7d20550c8.jpg
 ---

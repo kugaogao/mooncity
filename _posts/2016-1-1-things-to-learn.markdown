@@ -1,6 +1,7 @@
 ---
 title: "需要学习的东西"
-categories: "plans"
+categories: 
+- thoughts
 tags: "计划"
 thumbnail: 5.jpg
 ---

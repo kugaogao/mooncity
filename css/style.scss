@@ -304,6 +304,10 @@ td,th{
 	h3{
 		color:$font-color;
 	}
+	.footer-col{
+		min-width:30%;
+		box-sizing:border-box;
+	}
 	.nav{
 		margin:0 0 0 0;
 		width:90%;

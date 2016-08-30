@@ -1,6 +1,7 @@
 ---
 title: "资源-设计网站"
-categories: "resource"
+categories: 
+- "resource"
 tags: "设计"
 thumbnail: 13.jpg
 ---

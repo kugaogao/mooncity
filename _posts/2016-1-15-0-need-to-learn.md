@@ -1,7 +1,9 @@
 ---
 title: "需要学习的关键技术"
-categories: "technology"
-tags: "technology plans"
+categories: 
+- technique
+tags: 
+- ""
 thumbnail: "13.jpg"
 qiniuurl: http://7xpt1l.com1.z0.glb.clouddn.com/image%2Fnature%2Fphoto-1443890923422-7819ed4101c0.jpg
 ---

@@ -1,7 +1,9 @@
 ---
 title: "将本地项目上传到Github"
-categories: "github"
-tags: "github"
+categories: 
+- technique
+tags: 
+- "github"
 thumbnail: 9.jpg
 qiniuurl: http://7xpt1l.com1.z0.glb.clouddn.com/image%2Fnature%2Fphoto-1450101215322-bf5cd27642fc.jpg
 ---

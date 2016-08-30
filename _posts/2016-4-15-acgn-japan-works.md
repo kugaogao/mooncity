@@ -2,7 +2,7 @@
 title:
 - "一些好看的日本动漫（贰）"
 categories:
-- music
+- resource
 tags:
 - acgn
 - japan
