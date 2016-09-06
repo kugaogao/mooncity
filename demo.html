@@ -1,0 +1,47 @@
+---
+layout: default
+title: Demo
+permalink: /demo/
+icon: glyphicon-play
+---
+<div id="fall">
+
+	{% assign rows = 3 %}
+    {% assign nums = site.posts.size | divided_by:rows | plus:1 %}
+	{% assign post_id= 0 %}
+	{% assign row_id = 1 %}
+	
+    <ul id="{{ "row" }}-{{ row_id }}">
+
+	{% for post in site.posts %}
+
+	    {% assign post_id = post_id | plus:1 %}
+		{% assign remainder = post_id | modulo:nums %}
+		
+	    {% if post_id !=0 and remainder == 0 %}
+          {% assign row_id = row_id | plus:1 %}
+		  </ul><ul id="{{ "row" }}-{{ row_id }}">
+	      
+		{% endif %}
+		<li style="overflow:hidden">
+		  {% if (post.thumbnail or post.qiniuurl)%}
+			<a href="{{ post.url | prepend: site.baseurl }}">
+				{% if post.qiniuurl %}
+			  		<img src="{{ post.qiniuurl }}">
+			  	{% else %}
+			  		<img src="{{ site.qiniupic }}{{ post.thumbnail }}">
+				{% endif %}
+			</a>
+		  {% endif %}
+		  <div class="head">
+				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}{{ post_id }}{{ remainder }}</a>
+			</div>
+			<div class="description">
+				{{ post.excerpt }}
+				<a class="read-more" href="{{ site.baseurl }}{{ post.url }}">阅读更多 »</a>
+			</div><!---->
+		</li>
+
+	{% endfor %}
+	</ul>
+</div>
